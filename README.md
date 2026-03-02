@@ -5,6 +5,23 @@ Hi 👋, I'm Pranjal!<br>Data Science Enthusiast | BCA Student | Aspiring ML Eng
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/pp223-02.bsky.social) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/pranjal-prajapati-cs) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranjalprajapati580@gmail.com) 
 
+
+## 🏅 Developer Credentials & Programs
+<p>
+  <img src="https://img.shields.io/badge/Google_Developer_Program-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_Pro-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+</p>
+
+## 🏆 Competitive Programming
+*Actively solving Data Structures & Algorithms in **C++***
+
+<p>
+  <a href="https://leetcode.com/u/PranjalPrajapati/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
+</p>
+
+
 # 💻 Tech Stack:
 ### 🛠 Tech Stack
 

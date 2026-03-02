@@ -23,7 +23,7 @@ Hi 👋, I'm Pranjal!<br>Data Science Enthusiast | BCA Student | Aspiring ML Eng
 
 
 # 💻 Tech Stack:
-### 🛠 Tech Stack
+
 
 #### 🚀 Programming Languages
 <p>
